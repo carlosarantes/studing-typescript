@@ -52,3 +52,7 @@ class CreateGame implements Game {
         this.genre = genre;
     }
  }
+
+ declare const a = 1
+
+ console.log(a)
