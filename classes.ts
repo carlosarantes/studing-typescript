@@ -39,8 +39,8 @@ class CharAccount extends UserAccount {
     }
 }
 
-const carlota = new UserAccount("Carlota", 25);
-carlota.logDetails();
+//const carlota = new UserAccount("Carlota", 25);
+//carlota.logDetails();
 
 const john = new CharAccount("Carlito", 26, "carlota.ota", 12);
 john.name;
